@@ -1,2 +1,3 @@
 rootProject.name = "LibraryTask"
 include ':app'
+include ':mylibrary'
