@@ -4,8 +4,7 @@ import android.content.Context;
 import android.widget.Toast;
 
 public class libraryClass {
-    public static int Calculation(Context c,int a,int b){
-
+    public static String Calculation(Context c,String a,String b){
         return a+b;
     }
 }
